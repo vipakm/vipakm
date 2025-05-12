@@ -8,7 +8,7 @@ I’m a **Software Engineer** with a passion for building high-performance, scal
 
 ## 🌟 **A Bit About Me**
 
-- 🎓 **Education:** Graduated in May 2023 with a degree in [Your Degree Name], majoring in Computer Science.
+- 🎓 **Education:** Graduated in May 2023 with a degree in B.Tech, majoring in Computer Science.
 - 💼 **Professional Experience:** Since October 10, 2022, I've been contributing to real-world projects that focus on optimizing business operations through technology.
 - 🌱 **Continuous Learner:** I’m deeply committed to personal and professional growth, consistently upgrading my skills to stay ahead in the ever-evolving tech landscape.
 
