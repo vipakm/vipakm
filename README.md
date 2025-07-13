@@ -1,7 +1,3 @@
-Sure! Here's an expanded and more detailed version of your profile, with a specific focus on your technologies and tools, to make it more engaging and comprehensive:
-
----
-
 # 👋 **Hello! I’m Amit Kumar**
 
 I’m a **Software Engineer** with a passion for building high-performance, scalable, and efficient web applications. My expertise spans across **.NET**, **MVC**, **RESTful APIs**, and **cloud solutions**. I specialize in developing impactful solutions that streamline business processes, enhance user experiences, and leverage cutting-edge cloud technologies.
